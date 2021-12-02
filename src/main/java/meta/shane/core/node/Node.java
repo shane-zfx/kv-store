@@ -25,6 +25,8 @@ public final class Node implements Lifecycle {
         this.term = 0;
     }
 
+    private
+
     @Override
     public void start() {
 
